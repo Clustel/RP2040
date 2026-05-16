@@ -1,4 +1,12 @@
-A RP2040 Dev Board created by me. It has an upgrade LDO compared to other traditional devboards which will allow for using devices that need higher current draw.
+# Mocon
+A dev boards with an upgraded LDO compared to other traditional devboards, which will allow for using devices that need higher current draw.
+
+# Features
+	16-Key Matrix + Rotary Encoder
+	Engineered Leaf-Spring Plate providing a bouncy, trampoline-like typing fee
+	Utilizes 3D-printed "slip-on" gasket socks to sandwich the plate tabs, completely isolating the plate and PCB from the outer ca
+  dasdadadad
+	
 
 Heres some images
 
