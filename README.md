@@ -1,5 +1,7 @@
 # Mocon
-A dev boards with an upgraded LDO compared to other traditional devboards, which will allow for using devices that need higher current draw. I made this to allow for easier prototyping as it gives extra breathing space when prototyping with many components connected at once to a dev board.
+A dev board with an upgraded LDO compared to other traditional devboards, which will allow for using devices that need higher current draw. 
+
+I made this to allow for easier prototyping as it gives extra breathing space when prototyping with many components connected at once to a dev board.
 
 # Features
 	RP2040 chip
